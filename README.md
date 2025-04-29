@@ -58,18 +58,6 @@ This project represents a systematic approach to process memory tracing, develop
 - Advanced build system (Makefile)
 - Practical system programming techniques
 
-### source files achitecture
-memtrc/
-├── include/        # header files
-│   ├── chart.h     # chart related declarations
-│   └── memtrc.h    # core functionality declarations
-├── chart.c         # chart related functions
-├── main.c          # main function
-├── memtrc.c        # core functionality
-├── test.c          # test units
-├── Makefile        # makefile for building the project
-├── README.md       # project description
-
 
 #### Experience
 
